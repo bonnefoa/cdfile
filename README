@@ -1,5 +1,5 @@
 Install with antigen:
 
 ```
-antigen bundle bonnefoa/cdfile
+antigen bundle bonnefoa/cdfile@main
 ```
